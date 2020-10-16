@@ -1,0 +1,629 @@
+.backgroud{
+	height: 5050px;
+	width: 100%;
+	/*background: red;*/
+}
+.backgroud .menu{
+	height: 80px;
+	width: 100%;
+	background-image:url(https://phamdo18.com/wp-content/uploads/2020/09/tong-hop-hinh-nen-den-dep-nhat-hien-nay37.jpg);
+	background-size: 100%;
+
+}
+.menu .logo{
+	margin-left: 200px;
+	float: left;
+	height: 100%;
+	width: 260px;
+	/*background: blue;*/
+}
+.menu .buttonn{
+	margin-left: 50px;
+	float: left;
+	height: 100%;
+	width: 450px;
+	/*background: gray;*/
+}
+.menu .logo2{
+	margin-left: 100px;
+	float: left;
+	height: 100%;
+	width: 260px;
+	/*background: yellow;*/
+}
+.menu button{
+	float: left;
+	padding: 25px 3px;
+}
+.logo img{
+	height: 100%;
+	width: 100%;
+}
+.logo2 img{
+	height: 100%;
+	width: 100%;
+}
+.backgroud .than{
+	float: left;
+	width: 100%;
+	height: 500px;
+	background: green;
+}
+.backgroud .than1{
+	float: left;
+	width: 100%;
+	height: 400px;
+	background: white;
+}
+.than1 .tron{
+	float: left;
+	width: 200px;
+	height: 200px;
+	/*background: blue;*/
+	position: relative;
+	top: -100px;
+    left: 100px;
+    border-radius:100px;
+    margin-left: 100px;
+}
+.tron img{
+	height: 100%;
+	width: 100%;
+	border-radius:100px;
+	transition-duration: 1s;
+}
+.tron img:hover {
+    transform: scale(1.2);
+}
+
+.than1 .chu{
+	float: left;
+	width: 100%;
+	height: 140px;
+	/*background: blue;*/
+	margin-top: -100px;
+}
+.chu1{
+	float: left;
+	width: 250px;
+	height: 140px;
+	/*background: yellow;*/
+    margin-left: 175px;
+}
+.b{
+	margin-left: 50px;
+}
+.c{
+	margin-left: 50px;
+}
+.d{
+	margin-left: 50px;
+}
+.a p{
+	margin-top: 10px;
+}
+.than1 .chudai{
+	float: left;
+	margin-left: 175px;
+	height: 80px;
+	width: 75.7%;
+	/*background: yellow;*/
+}
+.than1 .an{
+	float: left;
+	width: 200px;
+	height: 40px;
+	background: black;
+	border-radius: 5px;
+	margin-left: 650px;
+	padding: 7px 5px 5px 15px;
+}
+.an a{
+	color: white;
+}
+.backgroud .luuy{
+	float: left;
+	width: 100%;
+	height: 500px;
+	background: black;
+}
+.luuy .nhung{
+	width: 100%;
+	height: 70px;
+	/*background: blue;*/
+	text-align: center;
+}
+.nhung h3{
+	margin-top: 50px;
+	color: yellow;
+}
+.backgroud .chan{
+	width: 100%;
+	height: 40px;
+	background: white;
+	float: left;
+}
+.luuy .GT{
+	float: left;
+	width: 250px;
+	height: 200px;
+	background: gray;
+	border-radius: 10px;
+	overflow: hidden;
+}
+.gt1{
+	margin-left: 200px;
+}
+.gt2{
+	margin-left: 30px;
+}
+.gt3{
+	margin-left: 30px;
+}
+.gt4{
+	margin-left: 30px;
+}
+.GT img{
+	width: 100%;
+	height: 100%;
+	border-radius: 10px;
+	transition-duration: 1s;
+}
+.GT img:hover {
+    transform: scale(1.2);
+}
+.luuy .Gx{
+	float: left;
+	width: 250px;
+	height: 100px;
+	/*background: gray;*/
+	color:yellow; 
+}
+.gx5{
+	margin-left: 200px;
+}
+.gx6{
+	margin-left: 30px;
+}
+.gx7{
+	margin-left: 30px;
+}
+.gx8{
+	margin-left: 30px;
+}
+.Gx p{
+	font-size: 12px;
+	color: white;
+}
+.backgroud .fix{
+	float: left;
+	background-color: white;
+	height: 400px;
+	width: 100%;
+}
+.fix h3{
+	margin-top: 70px;
+	margin-left: 650px;
+}
+.fix .sa{
+	float: left;
+	height: 230px;
+	width: 750px;
+	/*background-color: gray;*/
+	margin-left: 200px;
+}
+.fix .ha{
+	float:left;
+	height: 230px;
+	width: 300px;
+	/*background-color: red;*/
+	margin-left: 40px;
+}
+.ha img{
+	height: 100%;
+	width: 100%;
+}
+.backgroud .visao{
+	float: left;
+	background-color: #f2c935;
+	height: 400px;
+	width: 100%;
+}
+.visao h3{
+	margin-top: 60px;
+	margin-left: 550px;
+}
+.visao .gd{
+	margin-top: 30px;
+	float: left;
+	/*background-color: blue;*/
+	height: 260px;
+	width: 325px;
+}
+.gd1{
+	margin-left: 200px;
+}
+.gd2{
+	margin-left: 60px;
+}
+.gd3{
+	margin-left: 60px;
+}
+.gd .gdc{
+	height: 100px;
+	width: 100%;
+	/*background-color: pink;*/
+}
+.gdc img{
+	height: 100%;
+	width:40%;
+	margin-left: 90px;
+}
+.gd p{
+	font-size: 14px;
+	margin-left: 10px;
+}
+.gd h4{
+	font-weight: bold;
+	text-align: center;
+}
+.backgroud .nhieu{
+	float: left;
+	background: white;
+	height: 1000px;
+	width: 100%;
+}
+.nhieu h3{
+	margin-top: 50px;
+	margin-left: 510px;
+}
+.nhieu .o{
+	float: left;
+	height: 250px;
+	width: 250px;
+	/*background: gray;*/
+	margin-right: 30px;
+	margin-bottom: 30px;
+	border-radius: 5px;
+}
+.o1{
+	margin-left: 200px;
+}
+.o4{
+	margin-left: 200px;
+}
+.o8{
+	margin-left: 200px;
+}
+.o img{
+	width: 100%;
+	height: 80%;
+	border-radius: 5px;
+}
+.o img:hover{
+	background: black;
+}
+.o p{
+	font-weight: bold;
+	margin-left: 45px;
+	margin-top: 15px;
+}
+.backgroud .banmuon{
+	float: left;
+	width: 100%;
+	height: 100px;
+	background: #f2c935;
+}
+.banmuon .xt{
+	float: left;
+	width: 115px;
+	height: 40px;
+	background: black;
+	border-radius: 5px;
+	margin-left: 1100px;
+	margin-top: -40px;
+	padding: 7px 5px 5px 15px;
+}
+.banmuon h5{
+	margin: 10px 0px 0px 200px;
+	font-weight: bold;
+}
+.banmuon p{
+	margin: 10px 0px 0px 200px;
+}
+.xt a{
+	color: white;
+}
+.backgroud .tt{
+	color: white;
+	float: left;
+	height: 600px;
+	width: 100%;
+	background: black;
+}
+.tt h5{
+	margin: 50px 0px 10px 350px;
+	float: left;
+	font-weight: bold;
+}
+.tt .cb{
+	float: left;
+	height: 70%;
+	width: 530px;
+	/*background: red;*/
+	margin-left: 200px;
+	margin-top: 50px;
+}
+.tt .hd{
+	float: left;
+	height: 70%;
+	width: 570px;
+	/*background: red;*/
+	margin-left: 30px;
+	margin-top: 50px;
+	overflow: hidden;
+}
+.cb .met{
+	margin-bottom: 25px;
+	height: 29.3%;
+	width: 100%;
+	/*background-color: yellow;*/
+}
+.met img{
+	width: 30%;
+	height: 100%;
+	
+}
+.hd .box{
+	float: left;
+	margin-bottom: 10px;
+	margin-right: 20px;
+	width: 166px;
+	height: 133px;
+	background-color: blue;
+	border-radius: 5px;
+	overflow: hidden;
+}
+.box img{
+	width: 100%;
+	height: 100%;
+	border-radius: 5px;
+	transition-duration: 1s;
+
+}
+.box img:hover {
+    transform: scale(1.2);
+}
+.backgroud .cm{
+	float: left;
+	width: 100%;
+	height: 525px;
+	background: white;
+}
+.cm .cmm{
+	float: left;
+	width: 250px;
+	height: 350px;
+	background: white;
+	margin-right: 35px;
+	margin-top: 30px;
+	overflow: hidden;
+}
+.cmm1{
+	margin-left: 200px;
+}
+.cm h4{
+	font-weight: bold;
+	margin-top: 30px;
+	margin-left: 650px;
+
+}
+.cmm img{
+	float: left;
+	width: 100%;
+	height: 60%;
+	transition-duration: 1s;
+}
+.cmm img:hover
+{
+transform: scale(1.2);
+}
+.met .ss{
+	float: right;
+	/*background-color: red;*/
+	height: 100%;
+	width: 70%;
+}
+.ss p{
+	margin: 0px 20px 0px 20px;
+	font-size: 12px;
+}
+.ss h6{
+	margin: 0px 20px 20px 20px;
+}
+.backgroud .cuoi{
+	float: left;
+	background: blue;
+	width: 100%;
+	height: 550px;
+}
+.cuoi .amnhac{
+	float: left;
+	height: 120px;
+	width: 100%;
+	background: #3d3d3c;
+}
+.amnhac .giai{
+	float: left;
+	height: 25%;
+	width: 1px;
+	background: white;
+	margin-left: 200px;
+	margin-top: 45px;
+}
+.amnhac .toa{
+	float: left;
+	height: 25%;
+	width: 1px;
+	background: white;
+	margin-top: 45px;
+}
+.amnhac p{
+	color: white;
+	float: left;
+	margin:50px 10px 0px 10px;
+	font-weight: bold;
+}
+.amnhac h6{
+	font-size: 20px;
+	color: white;
+	float: left;
+	margin:10px 0px 0px 250px;
+	font-weight: bold;
+}
+.cuoi .we{
+	float: left;
+	height: 120px;
+	width: 100%;
+	background: #f7d702;
+}
+.we .de{
+	height: 115%;
+	width: 280px;
+	background: #1e1e1f;
+	float: left;
+	margin-left: 185px;
+	position: relative;
+	top: -17px;
+}
+.de .dau{
+	height: 2px;
+	width: 100%;
+	background: #f7d34f;
+}
+.de .duoi{
+	height:0.1px;
+	width: 100%;
+	background: grey;
+}
+.we button{
+	margin:40px 0 0 20px;
+}
+.we a{
+	color: black;
+	text-decoration:none;
+	font-weight: bold;
+}
+.cuoi .cu{
+	background-color: #3d3d3c;
+	float: left;
+	height: 210px;
+	width: 100%;
+}
+.cu .ch{
+	height: 100%;
+	width: 280px;
+	background: #1e1e1f;
+	float: left;
+	margin-left: 185px;
+	color: white;
+}
+.ch p{
+	padding:20px 0px 0px 20px;
+	font-size:12px; 
+}
+.cu .chh{
+	height: 100%;
+	width: 280px;
+	/*background: #1e1e1f;*/
+	float: left;
+	color: white;
+}
+.cu .chhh{
+	height: 100%;
+	width: 280px;
+	/*background: #1e1e1f;*/
+	float: left;
+	color: white;
+}
+.cu .chhhh{
+	height: 100%;
+	width: 280px;
+	/*background: #1e1e1f;*/
+	float: left;
+	color: white;
+}
+.cu h5{
+	padding: 20px 0px 20px 20px;
+}
+.ch p{
+	margin-left: 1px;
+	font-size:12px; 
+	font-weight: bold;
+	color: white;
+	margin-top: 2px;
+}
+.chh a{
+	float: left;
+	margin-left: 30px;
+	font-size:12px; 
+	font-weight: bold;
+	color: white;
+	margin-bottom: 10px;
+}
+.chhh a{
+	float: left;
+	margin-left: 30px;
+	font-size:12px; 
+	font-weight: bold;
+	color: white;
+	margin-bottom: 10px;
+}
+.chhhh p{
+	margin-left: 30px;
+	font-size:12px; 
+	font-weight: bold; 
+}
+.de img{
+	width: 100%;
+	height: 98%;
+}
+.amnhac .vl{
+	float: left;
+	width: 500px;
+	height: 100%;
+	/*background: red;*/
+}
+.amnhac .vll{
+	float: left;
+	width: 1000px;
+	height: 100%;
+	/*background: red;*/
+}
+.chot p{
+	float: left;
+	margin-left: 205px;
+	font-size: 13px;
+	margin-top: 20px;
+	font-weight: bold;
+}
+.chot h6{
+	float: right;
+	margin-right: 200px;
+	font-size: 13px;
+	margin-top: 25px;
+	font-weight: bold;
+}
+.cmm h6{
+	font-weight: bold;
+	margin-left: 10px;
+}
+.cmm p{
+	font-size: 12px;
+	margin-left: 10px;
+}
+
+
+
+
+
